@@ -1,13 +1,9 @@
-Version2
+Version1
+
+Generada por Andrea
 
 
-Servidor concurrente, Lista de conectados y Exclusión mutua
+Verificada por Sara
 
 
-Generada por Angela
-
-
-Verificada por Andrea
-
-
-Comunicada por Sara
+Comunicada por Angela
